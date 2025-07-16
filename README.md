@@ -60,4 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="45%" />
 </p>
 
+## 🎓  Completed Courses 
+
+- ✅ JavaScript Development Track  
+- ✅ Python Development Track  
+- ✅ Git and GitHub: Version Control and Collaboration  
+- ✅ SQL with MySQL: Querying and Managing Data  
+
+
 
