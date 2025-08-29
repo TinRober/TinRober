@@ -2,7 +2,6 @@
 
 🎓 Software Engineering Student  
 💻 Passionate about Programming, Machine Learning, Data Science  
-🐶 Dog lover  
 🚀 Actively looking for job opportunities in tech!
 
 
