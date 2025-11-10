@@ -9,14 +9,6 @@
 
 <table style="width:100%; table-layout: fixed;">
   <tr>
-    <!-- REST API -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/api.png" width="40" alt="REST API"/><br/>REST API
-    </td>
-    <!-- PHP -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" alt="PHP"/><br/>PHP
-    </td>
     <!-- Java -->
     <td align="center" style="width:12.5%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" alt="Java"/><br/>Java
