@@ -36,9 +36,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
       Docker
     </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
-      AWS
+    <td align="center" style="width:12.5%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="40" alt="AWS"/><br/>AWS
+      <!-- alternativa (se o ícone acima não carregar):
+      <br/><img src="https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazon-aws" width="80" alt="AWS"/>
+      -->
     </td>
   </tr>
 </table>
