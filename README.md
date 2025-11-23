@@ -9,32 +9,48 @@
 
 <table style="width:100%; table-layout: fixed;">
   <tr>
-    <!-- Java -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" alt="Java"/><br/>Java
-    </td>
     <!-- JavaScript -->
     <td align="center" style="width:12.5%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript"/><br/>JavaScript
     </td>
+
+    <!-- TypeScript -->
+    <td align="center" style="width:12.5%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/><br/>TypeScript
+    </td>
+
+    <!-- Node.js -->
+    <td align="center" style="width:12.5%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js"/><br/>Node.js
+    </td>
+
+    <!-- React -->
+    <td align="center" style="width:12.5%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/><br/>React
+    </td>
+
     <!-- Python -->
     <td align="center" style="width:12.5%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" alt="Python"/><br/>Python
     </td>
-    <!-- C# -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40" alt="C#"/><br/>C#
-    </td>
+
     <!-- MySQL -->
     <td align="center" style="width:12.5%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/><br/>MySQL
     </td>
+
     <!-- Docker -->
     <td align="center" style="width:12.5%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" alt="Docker"/><br/>Docker
     </td>
+
+    <!-- AWS -->
+    <td align="center" style="width:12.5%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/><br/>AWS
+    </td>
   </tr>
 </table>
+
 
 ## 🛠️ Concepts & Best Practices
 
