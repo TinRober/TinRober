@@ -4,53 +4,44 @@
 💻 Passionate about Programming, Machine Learning, Data Science  
 🚀 Actively looking for job opportunities in tech!
 
+## 🚀 Technologies & Concepts
 
-## 🚀 Technologies & Concepts 
-
-<table style="width:100%; table-layout: fixed;">
+<table>
   <tr>
-    <!-- JavaScript -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript"/><br/>JavaScript
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      JavaScript
     </td>
-
-    <!-- TypeScript -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" alt="TypeScript"/><br/>TypeScript
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>
+      TypeScript
     </td>
-
-    <!-- Node.js -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js"/><br/>Node.js
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+      Node.js
     </td>
-
-    <!-- React -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/><br/>React
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      React
     </td>
-
-    <!-- Python -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" alt="Python"/><br/>Python
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      Python
     </td>
-
-    <!-- MySQL -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/><br/>MySQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      MySQL
     </td>
-
-    <!-- Docker -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" alt="Docker"/><br/>Docker
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+      Docker
     </td>
-
-    <!-- AWS -->
-    <td align="center" style="width:12.5%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/><br/>AWS
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
+      AWS
     </td>
   </tr>
 </table>
-
 
 ## 🛠️ Concepts & Best Practices
 
