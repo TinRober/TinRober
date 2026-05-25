@@ -51,8 +51,11 @@
 
 ## 📊 GitHub Stats 
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" width="45%" />
+<p align="left">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&langs_count=8&theme=tokyonight"
+  />
 </p>
 
 ## 🎓  Completed Courses 
