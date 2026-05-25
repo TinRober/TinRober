@@ -53,8 +53,8 @@
 
 <p align="left">
   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&langs_count=8&theme=tokyonight"
   />
 </p>
 
