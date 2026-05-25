@@ -51,12 +51,7 @@
 
 ## 📊 GitHub Stats 
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TinRober&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" 
-    height="180em"
-  />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TinRober&theme=tokyonight)
 
 ## 🎓  Completed Courses 
 
